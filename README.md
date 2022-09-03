@@ -1,5 +1,5 @@
 # nv webblog
-create by 63310632 Khomsan Chooon [here](https://github.com/MarkKh).
+create by 63310632 Khomsan Chooon [MarkKh](https://github.com/MarkKh).
 
 ## Project setup
 This project requires of
