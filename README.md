@@ -1,1 +1,31 @@
-# nv--webblog
+# nv webblog
+
+## Project setup
+This project requires of
+- Nodejs
+- npm 
+You can download and install Nodejs from its website [here](https://nodejs.org/).
+
+## In Client 
+
+## In Server
+```
+npm install --save express
+```
+```
+npm install --save body-parser
+```
+```
+npm install -g nodemon
+```
+```
+npm install save sqlite3
+```
+```
+npm install --save sequelize
+```
+
+## How to run server?
+```
+nodemon sre/app.js
+```
