@@ -18,7 +18,7 @@ app.get("/hello/:person", function (req, res) {
   res.send("sey hello with " + req.params.person);
 });
 
-pp.post("/hello", function (req, res) {
+app.post("/hello", function (req, res) {
   res.send("OK you post - " + req.body.name);
 });
 
