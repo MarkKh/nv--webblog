@@ -6,7 +6,9 @@ This project requires of
 - npm 
 You can download and install Nodejs from its website [here](https://nodejs.org/).
 
-## In Client 
+## Required program
+- postman
+- sqliteStudio
 
 ## In Server
 ```
