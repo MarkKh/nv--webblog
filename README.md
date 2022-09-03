@@ -29,6 +29,7 @@ npm install --save sequelize
 ```
 
 ## How to run server?
+server run on port 8081
 ```
 nodemon sre/app.js
 ```
