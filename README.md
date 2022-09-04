@@ -33,3 +33,7 @@ server run on port 8081
 ```
 nodemon sre/app.js
 ```
+or
+```
+node sre/app.js
+```
